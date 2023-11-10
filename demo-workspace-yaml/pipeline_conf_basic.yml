@@ -17,8 +17,8 @@ steps:
     terraform plan -out=tfplan -input=false
   displayName: 'Terraform Init and Plan'
   env:
-    ARM_CLIENT_ID: bb2b8def-bad5-48dc-b27f-48c77b4a4510
-    ARM_CLIENT_SECRET: cIQ8Q~55pOSiU3EhzQNcd1tMT50sTt1VHc1.Aca4
+    ARM_CLIENT_ID: f89a5723-f145-4a3d-baa4-cf9baa5e9e9c
+    ARM_CLIENT_SECRET: _jZ8Q~T_qvbxHUX7sO6hELTBHs5MNbyBFsn_qdj7"
     ARM_SUBSCRIPTION_ID: bb2b8def-bad5-48dc-b27f-48c77b4a4510
     ARM_TENANT_ID: d420b80d-bc1a-429d-b6c6-587896c20153
 
